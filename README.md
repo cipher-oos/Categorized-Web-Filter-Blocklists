@@ -138,7 +138,7 @@ Submit an issue or pull request if:
 ---
 
 ## Credits ##
-** IP Sets **  https://github.com/blocklist-ipsets
+ **IP Sets**  https://github.com/blocklist-ipsets
 
 ---
 

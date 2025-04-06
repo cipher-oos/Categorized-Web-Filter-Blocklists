@@ -136,9 +136,12 @@ Submit an issue or pull request if:
 - Request format changes
 
 ---
----
+
 ## Credits ##
 ** IP Sets **  https://github.com/blocklist-ipsets
+
+---
+
 ## License
 
 MIT License. See `LICENSE` file.

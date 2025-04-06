@@ -138,7 +138,7 @@ Submit an issue or pull request if:
 ---
 
 ## Credits ##
- **IP Sets**  https://github.com/blocklist-ipsets
+Some IP sets in this repo are sourced from [blocklist-ipsets](https://github.com/blocklist-ipsets), which offers a wide range of IP blocklists for security and geo-based filtering. All credit goes to the original maintainers.
 
 ---
 

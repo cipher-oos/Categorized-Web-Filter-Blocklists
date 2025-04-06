@@ -112,7 +112,7 @@ subdomain.malicious.org
 
 ## Usage
 
-Clone or download the repo. Import lists as needed based on your firewall or DNS filter platform.
+Clone the repo or download from **releases** . Import lists as needed based on your firewall or DNS filter platform.
 
 ### pfSense / OPNsense  
 Use with pfBlockerNG or Unbound's DNSBL.

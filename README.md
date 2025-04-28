@@ -137,6 +137,19 @@ Submit an issue or pull request if:
 
 ---
 
+## Credits ##
+Some IP sets in this repo are sourced from [blocklist-ipsets](https://github.com/blocklist-ipsets), which offers a wide range of IP blocklists for security and geo-based filtering. All credit goes to the original maintainers.
+
+---
+## Disclaimer
+
+This project is provided for educational and administrative use only.
+
+I do not guarantee the accuracy, completeness, or reliability of any list.
+
+I am not responsible for any misuse, misconfiguration, false positives, or damage caused by using this data in production or any other environment.
+
+---
 ## License
 
 MIT License. See `LICENSE` file.

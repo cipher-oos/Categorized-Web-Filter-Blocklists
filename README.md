@@ -20,6 +20,7 @@ The blocklists are sorted into folders by category:
 - `ads`
 - `adult`
 - `aggressive`
+- `AI`
 - `arjel`
 - `associations_religieuses`
 - `astrology`
